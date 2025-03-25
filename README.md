@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rajatb04
-- 👀 I’m interested in C++,JAVA,HTML,CSS,JAVASCRIPT,REACT and many more
-- 🌱 I’m currently learning ReactJs
+- 👀 I’m interested in C++,PYTHON,HTML,CSS,JAVASCRIPT,REACT and many more
+- 🌱 I’m currently learning ReactJs and Python
 - 💞️ I’m looking to collaborate on .
 - 📫 How to reach me ..
 
